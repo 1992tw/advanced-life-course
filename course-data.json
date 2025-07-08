@@ -1,0 +1,49 @@
+{
+  "title": "Advanced Life Course",
+  "description": "NO DESC",
+  "learningObjectives": [
+    "Understand and apply advanced life concepts and skills.",
+    "Develop strategies for overcoming life challenges and setbacks.",
+    "Create an effective personal growth plan for continuous self-improvement."
+  ],
+  "lessonCount": 3,
+  "updatedAt": "2025-07-08T19:04:54.128Z",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "The Concept of Advanced Living",
+      "learningObjectives": [],
+      "topicsCovered": [],
+      "subsections": [],
+      "assignment": {
+        "title": "Assignment will be generated",
+        "objective": "Objective will be provided when lesson is generated",
+        "tasks": []
+      }
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Mastering Resilience",
+      "learningObjectives": [],
+      "topicsCovered": [],
+      "subsections": [],
+      "assignment": {
+        "title": "Assignment will be generated",
+        "objective": "Objective will be provided when lesson is generated",
+        "tasks": []
+      }
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Personal Life Planning",
+      "learningObjectives": [],
+      "topicsCovered": [],
+      "subsections": [],
+      "assignment": {
+        "title": "Assignment will be generated",
+        "objective": "Objective will be provided when lesson is generated",
+        "tasks": []
+      }
+    }
+  ]
+}
